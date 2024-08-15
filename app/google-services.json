@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992869506647",
+    "project_id": "androidprojects-aaf1e",
+    "storage_bucket": "androidprojects-aaf1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992869506647:android:afc525736c52416a120d12",
+        "android_client_info": {
+          "package_name": "com.example.apimarket_belal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtCinN2WBjpgDUwpNG7-ogXp_Aj4JIww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
